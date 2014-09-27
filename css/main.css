@@ -456,10 +456,6 @@ body{
     cursor: pointer;
 }
 
-.yeti:active{
-    background-image: url('../img/penguin_pngs/yeti.png');
-}
-
 .yeti{
     width: 200px;
     height: 200px;
@@ -467,3 +463,6 @@ body{
     background-image: url('../img/penguin_pngs/mound_9.png');
 }
 
+.yeti:active{
+    background-image: url('../img/penguin_pngs/yeti.png');
+}
